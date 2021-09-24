@@ -1,6 +1,6 @@
 <?php 
 // Recipient email 
-$toEmail = 'vovab1544@gmail.com'; 
+$toEmail = 'admin@example.com'; 
  
 $status = 0; 
 $statusMsg = 'Something went wrong! Please try again after some time.'; 
